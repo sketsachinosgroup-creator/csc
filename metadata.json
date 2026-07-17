@@ -1,0 +1,6 @@
+{
+  "name": "Cozy Shoes Care",
+  "description": "Premium hand-washed shoe care services landing page and organic retail products catalog.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
